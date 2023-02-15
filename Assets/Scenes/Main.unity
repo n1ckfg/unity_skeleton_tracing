@@ -362,7 +362,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f7e8d7501102ca4fb25ce820e0634c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  srcTexture: {fileID: 0}
+  srcTexture: {fileID: 2800000, guid: 61aa4acce1e51744296c5b8e899e4c1d, type: 3}
   chunkSize: 10
 --- !u!4 &1921082786
 Transform:
